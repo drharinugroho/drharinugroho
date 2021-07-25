@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @drharinugroho, I'm a gynecologic oncologist surgeon who loves to code
+- 👀 I’m interested in android app programming
+- 🌱 I’m currently learning Java
+- 💞️ I’m looking to collaborate on medical app making
+- 📫 How to reach me mail@harinugroho.com
